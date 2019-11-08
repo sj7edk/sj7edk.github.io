@@ -17,14 +17,14 @@ var _hmt = _hmt || [];
 
 
 var urls = new Array();
-urls[0] = "https://www.kf6830.com/guide_page.htm";
-urls[1] = "https://www.kf6830.com/guide_page.htm";
-urls[2] = "https://www.kf6830.com/guide_page.htm";
+urls[0] = "https://www.kf130.com/guide_page.htm";
+urls[1] = "https://www.kf130.com/guide_page.htm";
+urls[2] = "https://www.kf130.com/guide_page.htm";
 
 var urlsM = new Array();
-urlsM[0] = "https://m.kf6830.com/guidenew.htm";
-urlsM[1] = "https://m.kf6830.com/guidenew.htm";
-urlsM[2] = "https://m.kf6830.com/guidenew.htm";
+urlsM[0] = "https://m.kf130.com/guidenew.htm";
+urlsM[1] = "https://m.kf130.com/guidenew.htm";
+urlsM[2] = "https://m.kf130.com/guidenew.htm";
 
 n = Math.floor(Math.random()*3);
 
